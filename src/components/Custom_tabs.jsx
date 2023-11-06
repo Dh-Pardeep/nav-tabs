@@ -39,7 +39,7 @@ const Custom_tabs = () => {
                                     <h2 className='mt-4 mt-md-0'>
                                         Lorem ipsum
                                     </h2>
-                                    <p >Lorem ipsum dolor sit amet consectetur. Semper vitae nullam eget consectetur mi. Vulputate sapien a a bibendum suspendisse quam. Hac posuere eget nam diam velit urna adipiscing diam.  </p>
+                                    <p >Lorem ipsum dolor sit amet consectetur. Semper vitae nullam eget consectetur mi. Vulputate sapien a a bibendum suspendisse quam. Hac posuere eget nam diam velit urna adipiscing diam.Hac posuere eget nam diam velit urna adipiscing diam.Hac posuere eget nam diam velit urna adipiscing diam.  </p>
                                     <p >Lorem ipsum dolor sit amet consectetur. Semper vitae nullam eget consectetur mi. Vulputate sapien a a bibendum suspendisse quam. Hac posuere eget nam diam velit urna adipiscing diam. .</p>
                                     <button className='bg-danger px-5 py-2 text-white rounded-3 text-start'>Button</button>
                                 </div>
@@ -55,7 +55,7 @@ const Custom_tabs = () => {
                                         Lorem ipsum
                                     </h2>
                                     <p >Lorem ipsum dolor sit amet consectetur. Semper vitae nullam eget consectetur mi. Vulputate sapien a a bibendum suspendisse quam. Hac posuere eget nam diam velit urna adipiscing diam.  </p>
-                                    <p >Lorem ipsum dolor sit amet consectetur. Semper vitae nullam eget consectetur mi. Vulputate sapien a a bibendum suspendisse quam. Hac posuere eget nam diam velit urna adipiscing diam. .</p>
+                                    <p >Lorem ipsum dolor sit amet consectetur. Semper vitae nullam eget consectetur mi. Vulputate sapien a a bibendum suspendisse quam. Hac posuere eget nam diam velit urna adipiscing diam. Hac posuere eget nam diam velit urna adipiscing diam.Hac posuere eget nam diam velit urna adipiscing diam..</p>
                                     <button className='bg-danger px-5 py-2 text-white rounded-3 text-start'>Button</button>
                                 </div>
                             </div>
