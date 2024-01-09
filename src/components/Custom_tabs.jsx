@@ -13,12 +13,12 @@ const Custom_tabs = () => {
     return (
         <>
             <div className='container '>
-                <div className='pt-5'>
+                <div className='py-5 my-5'>
                     <div className="tab-content">
                         {activeTab === 'tab1' && <p className='text-center'>
                             <div className="row   ">
                                 <div className="col-12 col-md-7 col-lg-6 h-100">
-                                    <img className='w-100 h-100 ' src={ImageOne} alt="ImageOne" />
+                                    <img className='imageTop ' src={ImageOne} alt="ImageOne" />
                                 </div>
                                 <div className="col-12 col-md-5 col-lg-6 text-start row_height">
                                     <h2 className='mt-4 mt-md-0'>
@@ -33,7 +33,7 @@ const Custom_tabs = () => {
                         {activeTab === 'tab2' && <p className='text-center'>
                         <div className="row   ">
                                 <div className="col-12 col-md-7 col-lg-6 h-100">
-                                    <img className='w-100 h-100' src={ImageTwo} alt="ImageOne" />
+                                    <img className='imageTop' src={ImageTwo} alt="ImageOne" />
                                 </div>
                                 <div className="col-12 col-md-5 col-lg-6 text-start row_height">
                                 <h2 className='mt-4 mt-md-0'>
@@ -48,7 +48,7 @@ const Custom_tabs = () => {
                         {activeTab === 'tab3' && <p className='text-center'>
                         <div className="row  ">
                                 <div className="col-12 col-md-7 col-lg-6 h-100">
-                                    <img className='w-100 h-100' src={ImageThree} alt="ImageOne" />
+                                    <img className='imageTop' src={ImageThree} alt="ImageOne" />
                                 </div>
                                 <div className="col-12 col-md-5 col-lg-6 text-start row_height">
                                 <h2 className='mt-4 mt-md-0'>
@@ -63,7 +63,7 @@ const Custom_tabs = () => {
                         {activeTab === 'tab4' && <p className='text-center'>
                         <div className="row  ">
                                 <div className="col-12 col-md-7 col-lg-6 h-100">
-                                    <img className='w-100 h-100' src={ImageFour} alt="ImageOne" />
+                                    <img className='imageTop' src={ImageFour} alt="ImageOne" />
                                 </div>
                                 <div className="col-12 col-md-5 col-lg-6 text-start row_height">
                                     <h2 className='mt-4 mt-md-0'>
